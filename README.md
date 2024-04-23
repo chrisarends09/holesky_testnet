@@ -61,11 +61,12 @@ Open your browser, Edge in this example, search for MetaMask add the extension a
 ---
 ---
 # 12. Start mining HolEth for testnet use, make sure MetaMask is set to Holesky network.
+Note input your HolEth wallet address from MetaMask
 # https://holesky-faucet.pk910.de/
 ![extension](images/holeskypowfaucet.png)
 ---
 ---
-# 13. Get SSV from testnet, may sure to connect MetaMask as the Holesky Network
+# 13. Get SSV from testnet, make sure to select in MetaMask Holesky Network
 # https://faucet.ssv.network/
 ![extension](images/ssvfaucet.png)
 ---
