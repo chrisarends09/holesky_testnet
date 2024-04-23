@@ -1,10 +1,9 @@
-﻿# Setup MetaMask to use Holesky Ethereum Testnet
 ---
 title: MetaMask Holesky Setup
 marp: true
 theme: gaia
 ---
-
+﻿# Setup MetaMask to use Holesky Ethereum Testnet
 We need to use MetaMask as it is seems to be working best connecting web3 wallets to the testnet in Edge or Chrome.
 
 Goals:
