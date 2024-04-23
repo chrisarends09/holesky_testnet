@@ -1,4 +1,10 @@
 ﻿# Setup MetaMask to use Holesky Ethereum Testnet
+---
+title: MetaMask Holesky Setup
+marp: true
+theme: gaia
+---
+
 We need to use MetaMask as it is seems to be working best connecting web3 wallets to the testnet in Edge or Chrome.
 
 Goals:
@@ -10,5 +16,53 @@ Goals:
 
 Open your browser, Edge in this example, search for MetaMask add the extension and create new wallet, save seed words.
 
-
+---
+# 1. add MetaMask to browser
+![extension](images/addmetamaskextension.png)
+---
+---
+# 2. create MetaMask wallet or restore
+![extension](images/createnewwallet.png)
+---
+---
+# 3. make extension visible
+![extension](images/makevisible.png)
+---
+---
+# 4. change network from Mainnet to new network
+![extension](images/changenetwork.png)
+---
+---
+# 5. Add network
+![extension](images/addnetwork.png)
+---
+---
+# 6. Add a network manually
+![extension](images/addnetworkmanually.png)
+---
+---
+# 7. Holesky Network settings
+![extension](images/holeskysettings.png)
+---
+---
+# 8. Switch to Holesky Testnet
+![extension](images/switchtoholesky.png)
+---
+---
+# 9. Check if Holesky Testnet selected ETH should have circle H on it then click Import tokens
+![extension](images/checkifholeskyselected.png)
+---
+---
+# 10. add ssv contrace address for holesky
+![extension](images/addssvcontract.png)
+---
+---
+# 11. Tokens have h symbol - Holesky Testnet selected
+![extension](images/tokenshavehsymbol.png)
+---
+---
+# 12. Start mining HolEth for testnet use
+# https://holesky-faucet.pk910.de/
+![extension](images/holeskypowfaucet.png)
+---
 
