@@ -53,7 +53,7 @@ Open your browser, Edge in this example, search for MetaMask add the extension a
 ![extension](images/checkifholeskyselected.png)
 ---
 ---
-# 10. add ssv contrace address for holesky
+# 10. add ssv contract address for holesky
 ![extension](images/addssvcontract.png)
 ---
 ---
